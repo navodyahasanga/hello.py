@@ -1,3 +1,3 @@
 # MYOUSL
-# HELLOW.PY
+# HELLO.PY
 print("Hello, World!")
